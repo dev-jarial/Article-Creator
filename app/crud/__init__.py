@@ -1,0 +1,1 @@
+from .predictions.crud_prediction import prediction
